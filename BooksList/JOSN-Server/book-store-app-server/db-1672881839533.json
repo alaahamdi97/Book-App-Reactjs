@@ -1,0 +1,19 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Javascript",
+      "price": 30
+    },
+    {
+      "id": 2,
+      "title": "React JS",
+      "price": 40
+    },
+    {
+      "id": 3,
+      "title": "TailwindCSS",
+      "price": 20
+    }
+  ]
+}
